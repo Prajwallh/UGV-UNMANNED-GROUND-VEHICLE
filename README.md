@@ -2,15 +2,15 @@
 
 1.Gesture control reciver and transmitter
 
-*Get mac-address-code to get the mac-address of ESP32 reciver and paste in transmitter.
+* Get mac-address-code to get the mac-address of ESP32 reciver and paste in transmitter.
 
-*Gesture_control_car_reciver code to upload in the reciver ESP32.
+* Gesture_control_car_reciver code to upload in the reciver ESP32.
 
-*Gesture_control_car_transmitter code to upload on ESP32 transmitter.
+* Gesture_control_car_transmitter code to upload on ESP32 transmitter.
 
 2.Rador sensor for survillance
 
-*Reciving and transmitting code to run and process in processing.ide
+* Reciving and transmitting code to run and process in processing.ide
 
 3. Metal detector
  * Metal detector reciver side is of LCD display and should upload MD Reciver.txt
